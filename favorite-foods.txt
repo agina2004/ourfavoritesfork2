@@ -1,2 +1,5 @@
 Pizza
 Burgers
+Salami
+Broccoli
+Box of Chocolates
